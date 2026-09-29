@@ -14,6 +14,11 @@
 | --- | --- |
 | [Awesome Agent List](https://github.com/AgentListIO/awesome-agent-list) | AI agents organized by category, with links to their full spec sheets. |
 | [Awesome Personal Assistants](https://github.com/AgentListIO/awesome-personal-assistants) | Self-hosted assistants, skills, memory layers, and companion projects. |
+| [Awesome Agent Clients](https://github.com/AgentListIO/awesome-agent-clients) | Desktop, terminal, web, and mobile interfaces for coding agents. |
+| [Awesome Agent Memory](https://github.com/AgentListIO/awesome-agent-memory) | Persistent context, recall, and knowledge tools. |
+| [Awesome Agent Sandboxes](https://github.com/AgentListIO/awesome-agent-sandboxes) | Execution environments and isolation runtimes. |
+| [Awesome Agent Orchestration](https://github.com/AgentListIO/awesome-agent-orchestration) | Frameworks and visual tools for coordinating agents and workflows. |
+| [Awesome Agent Observability](https://github.com/AgentListIO/awesome-agent-observability) | Tracing, evaluation, session inspection, and cost tracking. |
 
 ## Use the catalog
 
